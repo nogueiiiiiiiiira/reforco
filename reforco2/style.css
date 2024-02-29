@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    padding: 30px;
+}
+
+.light{
+    background-color: blueviolet;
+}
+
+html{
+    background-color: aqua;
+}
